@@ -43,8 +43,8 @@ This function gives the warped image of the input image within given data points
 ---
 Inputs of **concat** function are as follows:
 - Scale (Scale of the original image)
-- List of Images/Videos
-This funciton gives the concatinated window of the images/videos given as input to it in the list, irrespective of the nature, scale, dimensions of the image/video.
-One can have the desired matrix of the concat window, for that you need to give the input the list of the images in that nested or matrix format.
+- List of Images/Videos.
+
+This funciton gives the concatinated window of the images/videos given as input to it in the list, irrespective of the nature, scale, dimensions of the image/video. One can have the desired matrix of the concat window, for that you need to give the input the list of the images in that nested or matrix format.
 
 **Also, If the length of the nested lists are not same, then the nested list with maximum length would be the length of the final output image and the lists with less number of image/video element would be replaced by blanked image**
