@@ -51,7 +51,7 @@ This funciton gives the concatinated window of the images/videos given as input 
 ***
 
 ## ***Output:***
-![plt](https://github.com/sahilgarg3/Document-Scanner/blob/demo/Document%20Scanner.jpg)
+![plt](https://github.com/sahilgarg3/Document-Scanner/blob/main/Document%20Scanner.jpg)
 
 `ImgResult` consists of following images:
 * Original Image, Canny Image, Erode Image
